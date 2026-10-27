@@ -1,2 +1,2 @@
-# gomining-roi-calculator
-Calculadora interactiva de rendimiento de minería en la nube con integración directa de pasarelas de pago y enlaces de afiliado GoMining.
+# GoMining ROI & Cloud Mining Calculator
+Herramienta interactiva para calcular rendimiento de minería en la nube y pasarela de adquisición de servicios de automatización.
